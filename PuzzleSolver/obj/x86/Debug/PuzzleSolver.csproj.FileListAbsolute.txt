@@ -1,0 +1,5 @@
+C:\Users\umbel\AppData\Local\Temporary Projects\PuzzleSolver\bin\Debug\PuzzleSolver.exe
+C:\Users\umbel\AppData\Local\Temporary Projects\PuzzleSolver\bin\Debug\PuzzleSolver.pdb
+C:\Users\umbel\AppData\Local\Temporary Projects\PuzzleSolver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\umbel\AppData\Local\Temporary Projects\PuzzleSolver\obj\x86\Debug\PuzzleSolver.exe
+C:\Users\umbel\AppData\Local\Temporary Projects\PuzzleSolver\obj\x86\Debug\PuzzleSolver.pdb
